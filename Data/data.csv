@@ -1,0 +1,11 @@
+FlstKZ;Flurstuecksnummer;Gemkg-Name;Gemkg-Schl.;Flur;Gem-Name;Gemeinde;amtliche Fläche;GBBname;Nutzung;Blattnummer;BVNR;Namensnummer;Vorname;Name;Zusatz;Adresse;Ort
+123456;123;Musterhausen;9876;12;Musterstadt;Mustergemeinde;1500;Mustermann;Wegerecht;001;A123;01;Max;Mustermann;Dr.;Musterstraße 1;12345 Musterstadt
+654321;654;Beispielort;6789;34;Beispielstadt;Beispielgemeinde;2000;Beispielmann;Wegerecht;002;B456;02;Anna;Beispiel;Prof.;Beispielweg 2;23456 Beispielstadt
+112233;112;Dorfhausen;3456;56;Dorfstadt;Dorfgemeinde;1800;Dorfmann;Wegerecht;003;C789;03;Peter;Dorf;Ing.;Dorfstraße 3;34567 Dorfstadt
+445566;445;Stadtort;7890;78;Stadtname;Stadtgemeinde;2200;Stadtmann;Wegerecht;004;D012;04;Clara;Stadt;Dipl.;Stadtweg 4;45678 Stadtname
+778899;778;Gemeindeort;4567;90;Gemeindename;Gemeindegemeinde;1600;Gemeindemann;Wegerecht;005;E345;05;Michael;Gemeinde;Mag.;Gemeindeweg 5;56789 Gemeindename
+990011;990;Ortshausen;2345;23;Ortstadt;Ortgemeinde;2100;Ortsmann;Wegerecht;006;F678;06;Sara;Ort;Dr.;Ortstraße 6;67890 Ortstadt
+221122;221;Landhausen;5432;45;Landstadt;Landgemeinde;1700;Landmann;Wegerecht;007;G901;07;Lucas;Land;BSc.;Landweg 7;78901 Landstadt
+334433;334;Regionhausen;6543;67;Regionstadt;Regiongemeinde;1900;Regionmann;Wegerecht;008;H234;08;Nina;Region;MSc.;Regionstraße 8;89012 Regionstadt
+556655;556;Dorfstadt;7654;89;Dorfname;Dorfgemeinde;1400;Dorfmann;Wegerecht;009;I567;09;Tom;Dorf;BEng.;Dorfweg 9;90123 Dorfname
+778899;778;Metropolenhausen;8765;12;Metropolenstadt;Metropolengemeinde;2300;Metropolenmann;Wegerecht;010;J890;10;Emma;Metropole;PhD;Metropolenweg 10;01234 Metropolenstadt
